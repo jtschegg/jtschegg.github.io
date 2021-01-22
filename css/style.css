@@ -61,8 +61,9 @@ nav,
 section,
 
 html {
-/* background-image: url ("graphics/background-01.svg");
-background-repeat: repeat; */
+
+image: url ("graphics/background-01.svg");
+background-repeat: repeat;
 }
 
 body {
